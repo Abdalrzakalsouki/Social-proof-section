@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/social-proof-section-gm7tmGGtPy)
+- Live Site URL: (https://social-proof-section-3fae.onrender.com)
 
 ## My process
 
